@@ -20,7 +20,7 @@ New features will be available on-demand.
 Be sure `session.dat` is available for READ/WRITE. 
 
 ### Warning!
-The End-User assumes responsibility for anything resulting from the use of this program. This is bot and I can't give 100% guaranty that you will not be banned. But for few months of work there is no ban for my users.
+The End-User assumes responsibility for anything resulting from the use of this program. I can't give 100% guaranty that you will not be banned.
 
 ### Different version?
 If you want "Full" version - make ANY donation, then contact me (@sochix) and I will send you the FULL verson.
